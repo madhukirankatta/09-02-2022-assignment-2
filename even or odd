@@ -1,0 +1,16 @@
+# 09-02-2022-assignment-2
+n=int(input('enter n value :'))
+if n%2==0:
+    print('given number is even')
+else:
+    print('given number is odd')
+
+output:
+==================== RESTART: C:/Python37/even or odd.py ====================
+enter n value :8
+given number is even
+>>> 
+==================== RESTART: C:/Python37/even or odd.py ====================
+enter n value :25
+given number is odd
+>>> 
